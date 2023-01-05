@@ -7,6 +7,7 @@
     <link rel="shortcut icon" href="style/favicon.ico">
     <link rel="stylesheet" href="style/style.css">
     <script src="Build/UnityLoader.js"></script>
+    <script src="Build/UnityProgress.js"></script>
     <script>
       var gameInstance = UnityLoader.instantiate("gameContainer", "Build/RollerBallerTypoFix.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
     </script>
@@ -23,7 +24,7 @@
 	  <div class="footer">
 	            <div class="webgl-logo"></div>
 	            <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-	            <div class="title">Tunnel Rush</div>
+	            <div class="title">Roller Baller</div>
 	        </div>
     </div>
     <script type="text/javascript">

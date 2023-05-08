@@ -33,23 +33,7 @@
         </div>
       </nav>
     </header>
-    <div class="welcome-area pt-120">
-      <div id="game">
-        
-    </div>
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-md-10 col-xl-8">
-            <div class="welcome-content text-center">
-              <h1 data-aos="fade-up" data-aos-duration="750" data-aos-delay="300">Play Roller Baller Unblocked Game</h1>
-              <p class="mb-4" data-aos="fade-up" data-aos-duration="750" data-aos-delay="500">Roller Baller has a series of stages in which the goal is to guide the golf ball through a series of obstacles to the golden platform at the end. There are a total of 40 stages, and each one adds a new setpiece that presents a distinct difficulty as the number of obstacles rises throughout the game. You must take care not to fall off the level as you go through each level; if you do, you must redo the level.</p><a onclick="playGame()" class="btn btn-primary rounded-pill" href="#" data-aos="fade-up" data-aos-duration="750" data-aos-delay="800"><i class="me-2 bi bi-grid-3x3-gap"></i>Play</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="divider"></div>
-    <div class="live-bidding-wrapper">
+    <div class="live-bidding-wrapper pt-120">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-7">
@@ -872,11 +856,6 @@
     <script src="js/all-js-libraries.js"></script>
     <script src="/js/active.js?v=1"></script>
     <script src="js/charts.js"></script>
-    <script>
-      function playGame(){
-        document.querySelector('#game').innerHTML = `<iframe src="/games/roller-baller/index.html" id="gameframe" style="width:100%;min-height:89vh;" frameborder="0"></iframe>`;
-      }
-    </script>
   </body>
 
 </html>

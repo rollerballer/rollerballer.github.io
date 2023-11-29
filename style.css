@@ -3329,3 +3329,6 @@ textarea.form-control {
 [data-theme=dark] .register-form .form-group label.label-psswd {
   color: #ffffff;
 }
+.col-12{
+  text-align: center !important;
+}

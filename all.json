@@ -14,6 +14,13 @@
       "img": "https://soccerlegends.github.io/penalty-challenge/logo.png"
     },
     {
+      "slug": "time-shooter",
+      "title": "Time Shooter",
+      "cat": "Shooting, Hot",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/time-shooter/logo.png"
+    },
+    {
       "slug": "tomb",
       "title": "Tomb of The Mask",
       "cat": "Skill, Hot",

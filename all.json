@@ -1,10 +1,24 @@
 [
     {
-      "slug": "bitlife-life-simulator",
-      "title": "BitLife",
-      "cat": "Skill, Hot",
-      "domain": 9,
-      "img": "https://slope-game.github.io/new3623/bitlife-life-simulator/logo.png"
+      "slug": "time-shooter",
+      "title": "Time Shooter",
+      "cat": "Shooting, Hot",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/time-shooter/logo.png"
+    },
+    {
+      "slug": "time-shooter-2",
+      "title": "Time Shooter 2",
+      "cat": "Shooting, Hot",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/time-shooter-2/logo.png"
+    },
+    {
+      "slug": "time-shooter-3",
+      "title": "Time Shooter 3",
+      "cat": "Shooting, Hot",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/time-shooter-3-swat/logo.png"
     },
     {
       "slug": "penalty-challenge",
@@ -14,18 +28,18 @@
       "img": "https://soccerlegends.github.io/penalty-challenge/logo.png"
     },
     {
-      "slug": "time-shooter",
-      "title": "Time Shooter",
-      "cat": "Shooting, Hot",
-      "domain": 99,
-      "img": "https://bitlifeonline.github.io/time-shooter/logo.png"
-    },
-    {
       "slug": "tomb",
       "title": "Tomb of The Mask",
       "cat": "Skill, Hot",
       "domain": 11,
       "img": "https://slope-game.github.io/new5923/tomb/logo.png"
+    },
+    {
+      "slug": "bitlife-life-simulator",
+      "title": "BitLife",
+      "cat": "Skill, Hot",
+      "domain": 9,
+      "img": "https://slope-game.github.io/new3623/bitlife-life-simulator/logo.png"
     },
     {
       "slug": "jacksmith",

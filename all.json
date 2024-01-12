@@ -21,6 +21,41 @@
       "img": "https://bitlifeonline.github.io/time-shooter-3-swat/logo.png"
     },
     {
+      "slug": "rebels-clash",
+      "title": "Rebels Clash",
+      "cat": "Shooting, Hot",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/rebels-clash/logo.png"
+    },
+    {
+      "slug": "kickflip-santa",
+      "title": "Kickflip Santa",
+      "cat": "Running, Hot",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/kickflip-santa/logo.png"
+    },
+    {
+      "slug": "quick-gun",
+      "title":"Quick Gun",
+      "cat": "Shooting, Hot",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/quick-gun/logo.png"
+    },
+    {
+      "slug": "merge-arena",
+      "title":"Merge Arena",
+      "cat": "Action, Hot",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/merge-arena/logo.png"
+    },
+    {
+      "slug": "drift-io",
+      "title":"Drift Io",
+      "cat": "car, drift",
+      "domain": 99,
+      "img": "https://bitlifeonline.github.io/drift-io/logo.png"
+    },
+    {
       "slug": "penalty-challenge",
       "title": "Penalty Challenge",
       "cat": "Skill, Hot",
